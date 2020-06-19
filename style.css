@@ -1,0 +1,53 @@
+.container{
+    margin-bottom:100px;
+}
+h1{
+    margin-top: 100px; 
+}
+
+.bg{
+    background-color:black;
+}
+h1{
+    color: blanchedalmond;
+}
+.link{
+    text-decoration: none;
+}
+.button{
+    background-image: linear-gradient(to bottom, #FF5898 0%, #FF136F 100%);
+    color: #FFF;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: #FF5898;
+}
+.cat1 img{
+    width: 100px;
+    height: 100px;
+}
+
+.cat2{
+    background-color: aqua;
+}
+.cat2 img{
+    width: 100px;
+    height: 100px;
+}
+.cat3{
+    background-color: orange;
+}
+.cat3 img{
+    width: 100px;
+    height: 100px;
+}
+h3{
+    color: aqua ;
+}
